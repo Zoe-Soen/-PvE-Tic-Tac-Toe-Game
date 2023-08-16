@@ -122,7 +122,7 @@ def new_board():
 
 
 def play_game():
-    print(f"-------------\nWelcome to Tic Tac Toe Game!\nLet's get it started!{''.join(BOARD)}\n")
+    print(f"-------------\nWelcome to Tic Tac Toe Game (PvE version)!\nLet's get it started!{''.join(BOARD)}\n")
 
     SHOULD_CONTINUED = True
     while SHOULD_CONTINUED:
